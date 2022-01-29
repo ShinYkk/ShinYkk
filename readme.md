@@ -26,7 +26,7 @@
 ➜ ./ShinYkk/readme.md ~ git:(master) ✗ cat social_media.md
 """
   ・GitHub     -> github.com/ShinYkk
-  ・Discord    -> Not for the moment
+  ・Discord    -> ShinYkk#3704
 """  
 ➜ ./ShinYkk/readme.md ~ git:(master) ✗ 
 ```
